@@ -5,7 +5,8 @@ for i in range(b):
 for j in range(b):
     print(a)
     print(b)
-    print(c)
+    print(a)
+z=1
 
 
 

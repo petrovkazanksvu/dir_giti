@@ -1,7 +1,7 @@
-a,b=5,99
+a,b=5,105
 for i in range(b):
-    print(b)
-print(a+a)
-print(b+b)
+    print(a)
+#print(a+b)
 for j in range(b):
     print(a)
+    print(b)

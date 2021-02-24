@@ -1,4 +1,4 @@
-a,b,c=5,105,345
+a,b,c=5,105,341
 for i in range(b):
     print(a)
 #print(a+b)

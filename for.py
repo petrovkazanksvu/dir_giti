@@ -7,3 +7,5 @@ for j in range(b):
     print(b)
     print(c)
 
+
+
